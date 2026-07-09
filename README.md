@@ -209,3 +209,7 @@ Please ensure your code is tested and runs on Python 3.8+.
 ## License
 
 MIT © 2026 [FreeAutomation-Tech](https://github.com/FreeAutomation-Tech/pywatch)
+---
+*If you find this useful, please consider giving it a star ⭐ — it helps others discover it too!*
+
+*Thank you for your support! 🙏*
